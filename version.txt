@@ -1,2 +1,2 @@
 4.0.2
-https://github.com/FabianM0912/firmen-tastenkurzel/releases/latest
+https://github.com/FabianM0912/firmen-tastenkuerzel/releases/latest
