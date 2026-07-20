@@ -1,3 +1,3 @@
-10.2.0
-https://github.com/FabianM0912/firmen-tastenkuerzel/releases/download/Version_10.2.0/Firmen-Tastenkurzel_Update.exe
-850739b74d3e6d7f68a822987a48c17166095cdafea0c9d1bd69762bcfc4299b
+11.0.0
+https://github.com/FabianM0912/firmen-tastenkuerzel/releases/download/Version_11.0.0/Firmen-Tastenkurzel_Update.exe
+ce98ce958eaf06decd4e3a687892d058a4d3a9cd65323c21a77205f16979d037
